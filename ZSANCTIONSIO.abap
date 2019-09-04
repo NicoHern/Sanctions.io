@@ -514,7 +514,7 @@ FORM show_web_page.
     APPEND ls_html TO lt_html.
     ls_html = `target="_blank">https://opensource.org/<wbr>licenses/BSD-3-Clause</a>.</div><div>Redistribution and use, with or without modification, is permitted.</div>`.
     APPEND ls_html TO lt_html.
-    ls_html = `<div>Copyright 2019 REMEDYNE GmbH. (or you put your own name if you want)</div><div><br></div><div>Before using this report:</div>`.
+    ls_html = `<div>Copyright 2019 REMEDYNE GmbH.</div><div><br></div><div>Before using this report:</div>`.
     APPEND ls_html TO lt_html.
     ls_html = `<div>1. Create an RFC destination as described here:</div><div><a href="https://remedyne.help/knowledgebase/configure-ssl-client-for-sanction-list-screening/"`.
     APPEND ls_html TO lt_html.
