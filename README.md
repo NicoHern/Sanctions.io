@@ -10,6 +10,8 @@ This report is provided as is and with no warranty under the 3-clause-BSD licens
 Redistribution and use, with or without modification, is permitted.
 Copyright 2019 REMEDYNE GmbH.
 
+To use this report just create a program called ZSANCTIONSIO and copy-paste the source code in file ZSANCTIONSIO.abap
+
 Before using this report:
 1. Create an RFC destination as described here:
 https://remedyne.help/knowledgebase/configure-ssl-client-for-sanction-list-screening/
